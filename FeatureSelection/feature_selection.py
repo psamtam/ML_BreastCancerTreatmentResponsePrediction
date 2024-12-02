@@ -18,7 +18,7 @@ from joblib import Parallel, delayed
 from pickle import dump , load
 
 
-TARGET_NUM_OF_FEATURES = 25
+TARGET_NUM_OF_FEATURES = 35
 
 # Read data
 training_file = "../TrainDataset2024.xls"
