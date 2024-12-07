@@ -12,4 +12,4 @@ MAE:
 - testing set: 20.5087
 
 
-Codes run on WSL. Not sure if it works with Windows.
+Codes run on WSL2 (Ubuntu). Not sure if it works with Windows.
