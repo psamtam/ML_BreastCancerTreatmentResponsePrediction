@@ -10,3 +10,6 @@ Randomly create regression model: XGBRegression
 MAE:
 - CV on training set: 20.0394
 - testing set: 20.5087
+
+
+Codes run on WSL. Not sure if it works with Windows.
